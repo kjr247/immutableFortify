@@ -22,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/kjr247/immutableFortify/issues"
   },
-  "homepage": "https://github.com/kjr247/immutableFortify#readme"
+  "homepage": "https://github.com/kjr247/immutableFortify#readme",
+  "dependencies": {
+    "immutable": "^3.8.1",
+    "ramda": "^0.22.1"
+  },
+  "devDependencies": {
+    "typescript": "2.5.3"
+  }
 }
